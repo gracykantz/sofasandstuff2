@@ -1,4 +1,6 @@
- <form action="/action_page.php">
+<h2>Login Form</h2>
+
+<form action="/action_page.php">
   <div class="imgcontainer">
     <img src="loginimg.jpg" alt="Avatar" class="avatar">
   </div>
@@ -9,7 +11,7 @@
 
     <label><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
-
+        
     <button type="submit">Login</button>
     <input type="checkbox" checked="checked"> Remember me
   </div>
